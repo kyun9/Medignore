@@ -20,7 +20,6 @@
 > Front-end
 
 * Vue.js
-* Boostrap4
 * HTML5 / CSS3 / JavaScript / jQuery / Ajax
 
 > Back-end
